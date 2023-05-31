@@ -1,6 +1,7 @@
 const videoElement = document.getElementById('video')
 const screenContainer = document.getSelection('screenContainer')
 const button = document.getElementById('button')
+let mediaStream
 
 // Prompt to select media stream, pass to video element, then play 
 async function selectMediaStream() {
@@ -9,6 +10,10 @@ async function selectMediaStream() {
     videoElement.srcObject = mediaStream;
     videoElement.onloadedmetadata = () => {
       videoElement.play()
+    }
+    mediaStream.getVideoTracks()[0].onended = () => {
+      // Prompt the user agian when the screen stops sharing
+      selectMediaStream()
     }
   } catch (error) {
     // Catch Error Here
