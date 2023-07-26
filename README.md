@@ -32,10 +32,12 @@ That's it! Now you should see the Picture-in-Picture web application running.<br
 To put any open tab into a picture-in-picture window, follow these steps:
 
 Open the website or tab that contains video or media content. <br>
-Click on the "Enter Picture-in-Picture" button provided by the web application. <br>
+Click on the "Start" button provided by the web application. <br>
+The tab will be switched to the tab your sharing. <br>
+Go back to the Picture-In-Picutre website and click the "Start" button agian. <br>
 The current tab will now be detached and appear as a picture-in-picture window on your screen.<br>
 You can move, resize, or minimize the picture-in-picture window as needed.<br>
-To exit the picture-in-picture mode, click the "Exit Picture-in-Picture" button within the PiP window, or simply close the PiP window.<br>
+To exit the picture-in-picture mode, simply close the PiP window.<br>
 
 ## Contributing
 Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on this GitHub repository. If you would like to contribute to the code, feel free to fork the repository and submit a pull request.
