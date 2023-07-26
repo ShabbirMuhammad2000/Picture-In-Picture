@@ -22,7 +22,7 @@ This web application aims to enhance your multitasking experience by providing a
 To use the Picture-in-Picture web application, follow these steps: <br>
 
 1. Clone this GitHub repository to your local machine using the following command: <br>
-2. git clone https://github.com/your-username/picture-in-picture.git <br>
+2. git clone https://github.com/your-username/Picture-In-Picture.git <br>
 3. Navigate to the project directory: cd picture-in-picture <br>
 4. Open the index.html file in your preferred web browser.<br>
 5. That's it! Now you should see the Picture-in-Picture web application running.<br>
