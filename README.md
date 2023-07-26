@@ -25,7 +25,8 @@ To use the Picture-in-Picture web application, follow these steps: <br>
 2. git clone https://github.com/your-username/Picture-In-Picture.git <br>
 3. Navigate to the project directory: cd picture-in-picture <br>
 4. Open the index.html file in your preferred web browser.<br>
-5. That's it! Now you should see the Picture-in-Picture web application running.<br>
+
+That's it! Now you should see the Picture-in-Picture web application running.<br>
 
 ## Usage
 To put any open tab into a picture-in-picture window, follow these steps:
