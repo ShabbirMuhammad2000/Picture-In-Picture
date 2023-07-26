@@ -2,12 +2,12 @@
 ### This repository contains a Picture-in-Picture (PiP) web application that allows you to click a button and put any open tab into a picture-in-picture window. This feature enables you to continue watching a video or viewing content from a specific website while browsing other tabs or applications.
 
 ## Table of Contents
-### Introduction
-### Features
-### Installation
-### Usage
-### Contributing
-### License
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Introduction
 This web application aims to enhance your multitasking experience by providing a simple Picture-in-Picture functionality. It's designed to be user-friendly and can be used with any website or tab that contains video or media content.
@@ -21,12 +21,11 @@ This web application aims to enhance your multitasking experience by providing a
 ## Installation
 To use the Picture-in-Picture web application, follow these steps: <br>
 
-Clone this GitHub repository to your local machine using the following command: <br>
-git clone https://github.com/your-username/picture-in-picture.git <br>
-Navigate to the project directory: <br>
-cd picture-in-picture <br>
-Open the index.html file in your preferred web browser.<br>
-That's it! Now you should see the Picture-in-Picture web application running.<br>
+1. Clone this GitHub repository to your local machine using the following command: <br>
+2. git clone https://github.com/your-username/picture-in-picture.git <br>
+3. Navigate to the project directory: cd picture-in-picture <br>
+4. Open the index.html file in your preferred web browser.<br>
+5. That's it! Now you should see the Picture-in-Picture web application running.<br>
 
 ## Usage
 To put any open tab into a picture-in-picture window, follow these steps:
